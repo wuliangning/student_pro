@@ -1,7 +1,7 @@
 package com.nnxy.model;
 
 public class StudentModel {
-	private int id;
+	private int id;//唯一标识
 	private String username;
 	private String password;
 	private int sex;
